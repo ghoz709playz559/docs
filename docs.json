@@ -2,11 +2,11 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Help Center",
-  "description": "Documentation and guides for this template—workspace setup, product how-tos, and support.",
+  "description": "Help Center for BloodFall SMP",
   "colors": {
-    "primary": "#166E3F",
-    "light": "#26BD6C",
-    "dark": "#166E3F"
+    "primary": "#6e1616",
+    "light": "#bd2626",
+    "dark": "#6e1616"
   },
   "favicon": "/favicon.ico",
   "icons": {
@@ -26,66 +26,6 @@
         "description": "Setup guides, product how-tos, automation tips, and policies.",
         "icon": "life-buoy",
         "groups": [
-      {
-        "group": "Getting started & account",
-        "icon": "rocket",
-        "expanded": true,
-        "root": "getting-started/index",
-        "pages": [
-          "getting-started/quickstart",
-          "getting-started/create-account",
-          "getting-started/sign-in-security",
-          {
-            "group": "Workspace",
-            "icon": "users",
-            "root": "getting-started/workspace/index",
-            "pages": [
-              "getting-started/workspace/invite-teammates",
-              "getting-started/workspace/roles-permissions",
-              "getting-started/workspace/organization-settings"
-            ]
-          },
-          {
-            "group": "Billing & plans",
-            "icon": "credit-card",
-            "root": "getting-started/billing/index",
-            "pages": [
-              "getting-started/billing/compare-plans",
-              "getting-started/billing/upgrade-downgrade",
-              "getting-started/billing/invoices-receipts"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "icon": "plug",
-            "root": "getting-started/integrations/index",
-            "pages": [
-              "getting-started/integrations/connect-slack",
-              "getting-started/integrations/connect-crm",
-              {
-                "group": "Developer integrations",
-                "icon": "code-xml",
-                "root": "getting-started/integrations/developer/index",
-                "pages": [
-                  "getting-started/integrations/developer/oauth-apps",
-                  "getting-started/integrations/developer/webhooks",
-                  "getting-started/integrations/developer/api-keys"
-                ]
-              },
-              {
-                "group": "Partner connectors",
-                "icon": "link-2",
-                "root": "getting-started/integrations/partners/index",
-                "pages": [
-                  "getting-started/integrations/partners/salesforce",
-                  "getting-started/integrations/partners/hubspot",
-                  "getting-started/integrations/partners/custom-connector-template"
-                ]
-              }
-            ]
-          }
-        ]
-      },
       {
         "group": "Product guides",
         "icon": "book-open",
@@ -143,7 +83,8 @@
               "product/automation/scheduled-tasks"
             ]
           }
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "Support & policies",
@@ -204,12 +145,6 @@
         ]
       },
       {
-        "product": "Docs",
-        "description": "Mintlify product documentation.",
-        "icon": "book-open",
-        "href": "https://www.mintlify.com/docs"
-      },
-      {
         "product": "Guides",
         "description": "Best-practice guides for technical writing.",
         "icon": "compass",
@@ -225,7 +160,8 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "href": "https://bloodfallsmp.qzz.io"
   },
   "navbar": {
     "links": [
