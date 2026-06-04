@@ -92,6 +92,7 @@
         "expanded": true,
         "root": "support/index",
         "pages": [
+          "support/minecraft-smp-help.mdx",
           "support/contact-support",
           "support/status-incidents",
           {
@@ -175,5 +176,8 @@
       "label": "Discord Server",
       "href": "https://discord.gg/invite/rjj6W6QYVG"
     }
+  },
+  "appearance": {
+    "strict": true
   }
 }
