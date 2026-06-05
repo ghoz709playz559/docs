@@ -145,6 +145,17 @@
             "hidden": true
           }
         ]
+      },
+      {
+        "group": "Reports and Appeals",
+        "icon": "flag",
+        "pages": [
+          "how-do-i-report-a-player",
+          "a-guide-to-ban-appeals",
+          "blocked-connections",
+          "contacting-our-staff",
+          "appeal-and-punishment-faqs"
+        ]
       }
         ]
       },
