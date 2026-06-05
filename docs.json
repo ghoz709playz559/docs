@@ -145,20 +145,8 @@
             "hidden": true
           }
         ]
-      },
-      {
-        "group": "Reports and Appeals",
-        "icon": "flag",
-        "pages": [
-          "article/62h8sb1/how-do-i-report-a-player",
-          "article/72h92s/a-guide-to-ban-appeals",
-          "article/7h10lab/blocked-connections",
-          "article/au2kGj2/contacting-our-staff",
-          "article/1NW0afl/appeal-and-punishment-faqs"
-        ],
-        "expanded": true
       }
-        ]
+    ]
       },
       {
         "product": "Guides",
@@ -173,6 +161,17 @@
         "icon": "newspaper",
         "href": "https://www.mintlify.com/blog",
         "hidden": true
+      },
+      {
+        "product": "Reports and Appeals",
+        "icon": "flag",
+        "pages": [
+          "article/62h8sb1/how-do-i-report-a-player",
+          "article/72h92s/a-guide-to-ban-appeals",
+          "article/7h10lab/blocked-connections",
+          "article/au2kGj2/contacting-our-staff",
+          "article/1NW0afl/appeal-and-punishment-faqs"
+        ]
       }
     ]
   },
