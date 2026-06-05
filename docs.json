@@ -35,7 +35,6 @@
         "expanded": true,
         "root": "product/index",
         "pages": [
-          "product/interface-overview",
           "product/keyboard-shortcuts",
           "product/search-navigation",
           {
@@ -90,7 +89,7 @@
         "hidden": true
       },
       {
-        "group": "Support & policies",
+        "group": "Support Desk",
         "icon": "life-buoy",
         "expanded": true,
         "root": "support/index",
@@ -103,8 +102,7 @@
             "icon": "wrench",
             "root": "support/troubleshooting/index",
             "pages": [
-              "support/troubleshooting/login-issues",
-              "support/troubleshooting/performance-issues"
+              "support/troubleshooting/login-issues"
             ]
           },
           {
