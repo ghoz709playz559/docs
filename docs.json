@@ -94,7 +94,7 @@
         "expanded": true,
         "root": "support/index",
         "pages": [
-          "support/minecraft-smp-help.mdx",
+          "support/minecraft-server-help",
           "support/contact-support",
           "support/status-incidents",
           {
