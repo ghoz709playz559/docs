@@ -173,6 +173,18 @@
           "article/1NW0afl/appeal-and-punishment-faqs"
         ],
         "description": "Support articles relating to reporting players, appealing bans or mutes."
+      },
+      {
+        "product": "Java Edition",
+        "pages": [
+          "how-do-i-update-to-java-1-21-x-or-above"
+        ]
+      },
+      {
+        "product": "Bedrock Edition",
+        "pages": [
+          "how-do-i-update-my-minecraft-bedrock"
+        ]
       }
     ]
   },
