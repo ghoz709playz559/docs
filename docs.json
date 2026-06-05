@@ -8,7 +8,10 @@
     "light": "#bd2626",
     "dark": "#6e1616"
   },
-  "favicon": "/logo.png",
+  "favicon": {
+    "light": "/images/bloodfalllogo.png",
+    "dark": "/images/bloodfalllogo.png"
+  },
   "icons": {
     "library": "lucide"
   },
@@ -160,8 +163,8 @@
     ]
   },
   "logo": {
-    "light": "/logo.png",
-    "dark": "/logo.png",
+    "light": "/images/bloodfalllogo.png",
+    "dark": "/images/bloodfalllogo.png",
     "href": "https://bloodfallsmp.qzz.io"
   },
   "navbar": {
