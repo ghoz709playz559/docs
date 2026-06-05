@@ -112,7 +112,8 @@
             "pages": [
               "support/account-data/export-data",
               "support/account-data/delete-account"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Legal & compliance",
@@ -140,7 +141,8 @@
                   "support/legal/regions/apac"
                 ]
               }
-            ]
+            ],
+            "hidden": true
           }
         ]
       }
