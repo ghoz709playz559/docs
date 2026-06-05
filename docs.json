@@ -150,12 +150,14 @@
         "group": "Reports and Appeals",
         "icon": "flag",
         "pages": [
-          "how-do-i-report-a-player",
-          "a-guide-to-ban-appeals",
-          "blocked-connections",
-          "contacting-our-staff",
-          "appeal-and-punishment-faqs"
-        ]
+          "article/62h8sb1/how-do-i-report-a-player",
+          "article/72h92s/a-guide-to-ban-appeals",
+          "article/7h10lab/blocked-connections",
+          "article/au2kGj2/contacting-our-staff",
+          "article/1NW0afl/appeal-and-punishment-faqs"
+        ],
+        "tag": "Moderation",
+        "expanded": true
       }
         ]
       },
