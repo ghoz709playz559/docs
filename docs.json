@@ -150,13 +150,15 @@
         "product": "Guides",
         "description": "Best-practice guides for technical writing.",
         "icon": "compass",
-        "href": "https://www.mintlify.com/guides/introduction"
+        "href": "https://www.mintlify.com/guides/introduction",
+        "hidden": true
       },
       {
         "product": "Articles",
         "description": "News, announcements, and engineering posts.",
         "icon": "newspaper",
-        "href": "https://www.mintlify.com/blog"
+        "href": "https://www.mintlify.com/blog",
+        "hidden": true
       }
     ]
   },
