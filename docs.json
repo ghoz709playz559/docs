@@ -30,65 +30,6 @@
         "icon": "life-buoy",
         "groups": [
       {
-        "group": "Product guides",
-        "icon": "book-open",
-        "expanded": true,
-        "root": "product/index",
-        "pages": [
-          "product/keyboard-shortcuts",
-          "product/search-navigation",
-          {
-            "group": "Projects",
-            "icon": "folder-kanban",
-            "root": "product/projects/index",
-            "pages": [
-              "product/projects/create-project",
-              "product/projects/archive-restore"
-            ]
-          },
-          {
-            "group": "Editor & content",
-            "icon": "pen-line",
-            "root": "product/editor/index",
-            "pages": [
-              "product/editor/drafts-publishing",
-              "product/editor/comments-mentions",
-              "product/editor/version-history"
-            ]
-          },
-          {
-            "group": "Automation",
-            "icon": "zap",
-            "root": "product/automation/index",
-            "pages": [
-              "product/automation/rules-triggers",
-              {
-                "group": "Workflow builder",
-                "icon": "workflow",
-                "root": "product/automation/workflows/index",
-                "pages": [
-                  "product/automation/workflows/build-first-workflow",
-                  "product/automation/workflows/conditions-branches",
-                  "product/automation/workflows/error-handling"
-                ]
-              },
-              {
-                "group": "Advanced patterns",
-                "icon": "layers",
-                "root": "product/automation/advanced/index",
-                "pages": [
-                  "product/automation/advanced/rate-limits",
-                  "product/automation/advanced/idempotency",
-                  "product/automation/advanced/retry-policies"
-                ]
-              },
-              "product/automation/scheduled-tasks"
-            ]
-          }
-        ],
-        "hidden": true
-      },
-      {
         "group": "Support Desk",
         "icon": "life-buoy",
         "expanded": true,
@@ -149,20 +90,6 @@
     ]
       },
       {
-        "product": "Guides",
-        "description": "Best-practice guides for technical writing.",
-        "icon": "compass",
-        "href": "https://www.mintlify.com/guides/introduction",
-        "hidden": true
-      },
-      {
-        "product": "Articles",
-        "description": "News, announcements, and engineering posts.",
-        "icon": "newspaper",
-        "href": "https://www.mintlify.com/blog",
-        "hidden": true
-      },
-      {
         "product": "Reports and Appeals",
         "icon": "flag",
         "pages": [
@@ -178,12 +105,21 @@
         "product": "Java Edition",
         "pages": [
           "how-do-i-update-to-java-1-21-x-or-above"
-        ]
+        ],
+        "icon": "pickaxe"
       },
       {
         "product": "Bedrock Edition",
         "pages": [
           "how-do-i-update-my-minecraft-bedrock"
+        ],
+        "icon": "blocks"
+      },
+      {
+        "product": "Xbox Privacy & Safety",
+        "pages": [
+          "how-do-i-create-an-xbox-account",
+          "xbox-family-settings-guide"
         ]
       }
     ]
